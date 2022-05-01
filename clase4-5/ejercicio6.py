@@ -5,7 +5,7 @@ numbers_container4 = []
 numbers_container5 = []
 
 # Todos los números del 0 al 10 [0, 1, 2, ..., 10]
-for i in range(101):
+for i in range(11):
     numbers_container1.append(i)
 print(numbers_container1, "\n")
 
